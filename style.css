@@ -98,7 +98,7 @@ a {
   padding: 150px 7% 90px;
   background:
     linear-gradient(90deg, rgba(12,11,10,.95), rgba(12,11,10,.64), rgba(12,11,10,.18)),
-    url("assets/hero-barber-sunglasses.jpg") center 28%/cover;
+    url("hero-barber-sunglasses.jpg") center 28%/cover;
 }
 
 .hero-content {
@@ -343,7 +343,7 @@ h3 {
 .contact-section {
   background:
     linear-gradient(rgba(12,11,10,.78), rgba(12,11,10,.86)),
-    url("assets/craft-shop-interior.jpeg") center/cover;
+    url("craft-shop-interior.jpeg") center/cover;
 }
 
 .contact-card {
